@@ -1,0 +1,11 @@
+{
+    "SP": ["São Paulo", "Campinas", "Santos"],
+    "RJ": ["Rio de Janeiro", "Niterói", "Petrópolis"],
+    "MG": ["Belo Horizonte", "Uberlândia", "Contagem"],
+    "BA": ["Salvador", "Feira de Santana", "Ilhéus"],
+    "RS": ["Porto Alegre", "Caxias do Sul", "Pelotas"],
+    "PE": ["Recife", "Olinda", "Caruaru"],
+    "CE": ["Fortaleza", "Juazeiro do Norte", "Sobral"],
+    "PA": ["Belém", "Ananindeua", "Santarém"]
+  }
+  
